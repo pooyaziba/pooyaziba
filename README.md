@@ -2,7 +2,7 @@
 
  Python developer and software engineering fundamentals.
 
-## POUYA TAB & SLOT
+# P-Design Project
 
 Main project is a personal engineering software project focused on CAD automation.
 
